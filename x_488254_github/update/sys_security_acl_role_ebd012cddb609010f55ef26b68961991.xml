@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>chris</sys_created_by>
+        <sys_created_on>2020-05-01 16:47:52</sys_created_on>
+        <sys_id>ebd012cddb609010f55ef26b68961991</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.488254.workspace.github.github</sys_name>
+        <sys_package display_value="Github" source="x_488254_github">6780d28ddb609010f55ef26b68961958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Github">6780d28ddb609010f55ef26b68961958</sys_scope>
+        <sys_security_acl display_value="x.488254.workspace.github">dfd012cddb609010f55ef26b68961987</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ebd012cddb609010f55ef26b68961991</sys_update_name>
+        <sys_updated_by>chris</sys_updated_by>
+        <sys_updated_on>2020-05-01 16:47:52</sys_updated_on>
+        <sys_user_role display_value="github" name="github">2bd012cddb609010f55ef26b6896198c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
